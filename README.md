@@ -6,7 +6,7 @@
 
 👤 **Author:** Staroshchuk Kirill (anakata), StudentID: 29933
 
-👤 **Author:**Piotr Sroczyński
+👤 **Professor:** Piotr Sroczyński
 
 ---
 
